@@ -32,10 +32,6 @@
 
 **《统计学习方法》**官方没有提供代码实现，但是网上有许多机器学习爱好者尝试对每一章的内容进行了代码实现。  本站在github网站搜集了一些代码进行整理，并作了一定的修改，使用**Python3.6**实现了第1-11章的课程代码。
 
-**代码目录与截图：**
-
-![1543246677825](images/1543246677825.png)
-
 **2.《统计学习方法》课件（ppt文件夹）**
 
 作者袁春： 清华大学深圳研究生院，提供了全书12章的PPT课件。
@@ -47,9 +43,3 @@
 [https://github.com/WenDesi/lihang_book_algorithm](http://link.zhihu.com/?target=https%3A//github.com/WenDesi/lihang_book_algorithm)
 
 [https://blog.csdn.net/tudaodiaozhale](http://link.zhihu.com/?target=https%3A//blog.csdn.net/tudaodiaozhale)
-
-代码整理和修改：机器学习初学者   （微信公众号，ID:ai-start-com），qq群：554839127。
-
-![gongzhong](/images/gongzhong.png)
-
-[我的知乎](https://www.zhihu.com/people/fengdu78)
